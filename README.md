@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Augus-LIUZHI/Augus-LIUZHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Welcome your coming 👋
+- 🔭 I’m currently working on beijing
+- 🌱 I’m currently learning springcloud
+- 👯 My language is java 
+- 📫 How to reach me: MTc1OTU4NjA2Ng==
+
 ![](https://github-readme-stats.vercel.app/api?username=Augus-LIUZHI&theme=onedark)
