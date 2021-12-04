@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 My language is java 
 - 📫 How to reach me: MTc1OTU4NjA2Ng==
 
-![](https://github-readme-stats.vercel.app/api?username=Augus-LIUZHI&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=BJPotter&theme=onedark)
